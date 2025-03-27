@@ -1,0 +1,22 @@
+# Flutter Dependencies
+flutter >=3.0.0
+
+# Node.js Dependencies (for backend)
+nodejs >=16.0.0
+npm >=8.0.0
+
+# MySQL Database
+mysql-server >=8.0.0
+mysql-client >=8.0.0
+
+# Additional Required Packages
+# If you use any global Node.js packages, list them here:
+express
+dotenv
+mysql2
+cors
+body-parser
+multer
+path
+nodemailer
+fs
